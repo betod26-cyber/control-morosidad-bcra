@@ -108,3 +108,6 @@ Para replicar este análisis y auditar los resultados obtenidos, siga estos paso
 ## 🔗 Enlaces del Proyecto
 * **Repositorio GitHub:** [https://github.com](https://github.com)
 
+* ## Documentación Ejecutiva
+* Puedes acceder al [Dossier Profesional Completo del Proyecto aquí](https://docs.google.com/document/d/1wPLrfXT7askN8uFxlVGEWc1rQSOffZdfIIGo1jgpcFQ/edit?usp=sharing).
+
